@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=zia-khan-dev&theme=highcontrast&hide_border=true" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=saddam-khan-dev&theme=highcontrast&hide_border=true" alt="GitHub Streak" /></a>
   <div>
     ¯\_(ツ)_/¯
   <div> /\</div>
